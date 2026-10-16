@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box 320px
+}
+div.menu-card{
+    background-color: #ffffff;
+    padding: 10px;
+    width: 320px;
+    border-radius: 16px
+}
+body{
+    background-color: #9f9c9c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    padding: 32px;
+    line-height: 24px;
+
+}
+p{
+    color: #4e2606;
+    padding-left: 15px;
+}
+.tagline{
+    font-weight: 700;
+margin-bottom: 20px;
+}
+.description{
+font-size: 14px;
+line-height: 20px;
+}
+.tips{
+    margin-top: 5px;
+    padding-left: 15px;
+}
+.copyright{
+    color: black;
+    margin-top: 5px;
+    padding-left: 15px;
+}
+h1,h2,h4{
+    text-align: center;
+    color: tomato;
+    background-color: black;
+    border-radius: 10px;
+}
+h1{ 
+   line-height: 40px;
+   margin-bottom: 20px;
+}
+h2{ 
+   line-height: 35px;
+   margin-bottom: 5px;
+}
+h4.kontakt{
+   line-height: 23px;
+   margin-bottom: 5px;
+}
+h4.tider{
+    line-height: 23px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.kontakta{
+    list-style: none;
+}
+.korvmeny{
+    list-style: none;
+}
+ul{
+    padding-left: 15px;
+}
+li.food{
+    color: #4e2606;
+}
+li.link{
+    color: black;
+}
+
+a{
+    color: black;
+}
+.logo{
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+header{
+    margin-bottom: 48px;
+}
+footer{
+    margin-top: 48px;
+}
